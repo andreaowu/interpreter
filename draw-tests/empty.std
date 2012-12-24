@@ -1,0 +1,218 @@
+%!PS-Adobe-2.0
+
+0.0 0.0 0.0 setrgbcolor
+1.0 setlinewidth
+1.0 1.0 moveto
+1.0 4.0 lineto
+3.0 4.0 lineto
+3.0 1.0 lineto
+1.0 1.0 lineto stroke
+0.5 0.2 0.3 setrgbcolor
+1.0 setlinewidth
+0.0 0.0 moveto
+0.0 2.0 lineto
+1.0 2.0 lineto
+1.0 0.0 lineto fill
+0.5 0.2 0.3 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 5.0 0.0 360.0 arc fill
+0.5 0.2 0.3 setrgbcolor
+2.0 setlinewidth
+3.0 1.0 moveto
+3.0 4.0 lineto
+5.0 4.0 lineto
+5.0 1.0 lineto
+3.0 1.0 lineto stroke
+0.5 0.2 0.3 setrgbcolor
+1.0 setlinewidth
+0.0 6.123233995736766E-17 3.0 0.0 360.0 arc
+0.0 6.123233995736766E-17 stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+-9.0 0.0 moveto
+9.0 0.0 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+2.0 2.0 moveto
+2.0 6.0 lineto
+4.0 6.0 lineto
+4.0 2.0 lineto fill
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+1.0 2.0 6.0 0.0 360.0 arc
+1.0 2.0 stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+3.0 6.0 5.0 0.0 360.0 arc fill
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 moveto
+0.0 100.0 lineto
+50.0 100.0 lineto
+50.0 0.0 lineto
+0.0 0.0 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 moveto
+0.0 6000.0 lineto
+3000.0 6000.0 lineto
+3000.0 0.0 lineto fill
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 20.0 0.0 360.0 arc
+0.0 0.0 stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 6.0 0.0 360.0 arc fill
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 moveto
+0.0 20.0 lineto
+10.0 20.0 lineto
+10.0 0.0 lineto
+0.0 0.0 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 moveto
+0.0 200.0 lineto
+100.0 200.0 lineto
+100.0 0.0 lineto fill
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 4.0 0.0 360.0 arc
+0.0 0.0 stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 2.0 0.0 360.0 arc fill
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+10.0 -4.0 moveto
+2.0 8.0 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+10.0 20.0 moveto
+10.0 40.0 lineto
+20.0 40.0 lineto
+20.0 20.0 lineto
+10.0 20.0 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+-10.0 -20.0 moveto
+-10.0 180.0 lineto
+90.0 180.0 lineto
+90.0 -20.0 lineto fill
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+10.0 -20.0 4.0 0.0 360.0 arc
+10.0 -20.0 stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+-10.0 20.0 2.0 0.0 360.0 arc fill
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+-47.0 10.0 moveto
+-46.0 28.0 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 moveto
+-20.0 1.2246467991473533E-15 lineto
+-20.0 10.000000000000002 lineto
+6.123233995736766E-16 10.0 lineto
+0.0 0.0 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 moveto
+-141.42135623730948 141.4213562373095 lineto
+-70.71067811865473 212.13203435596427 lineto
+70.71067811865476 70.71067811865474 lineto fill
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+2.0 -0.9999999999999999 4.0 0.0 360.0 arc
+2.0 -0.9999999999999999 stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+-3.0000000000000004 -3.9999999999999996 2.0 0.0 360.0 arc fill
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+10.42298663783609 -0.6011235708989635 moveto
+-6.149460392984591 6.494931629748984 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 moveto
+0.0 10.0 lineto
+10.0 10.0 lineto
+10.0 0.0 lineto
+0.0 0.0 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 moveto
+0.0 20.0 lineto
+20.0 20.0 lineto
+20.0 0.0 lineto
+0.0 0.0 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 moveto
+0.0 30.0 lineto
+30.0 30.0 lineto
+30.0 0.0 lineto
+0.0 0.0 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 moveto
+0.0 40.0 lineto
+40.0 40.0 lineto
+40.0 0.0 lineto
+0.0 0.0 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 moveto
+0.0 50.0 lineto
+50.0 50.0 lineto
+50.0 0.0 lineto
+0.0 0.0 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 moveto
+0.0 60.0 lineto
+60.0 60.0 lineto
+60.0 0.0 lineto
+0.0 0.0 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 moveto
+0.0 70.0 lineto
+70.0 70.0 lineto
+70.0 0.0 lineto
+0.0 0.0 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 moveto
+0.0 80.0 lineto
+80.0 80.0 lineto
+80.0 0.0 lineto
+0.0 0.0 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 moveto
+0.0 90.0 lineto
+90.0 90.0 lineto
+90.0 0.0 lineto
+0.0 0.0 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+0.0 0.0 moveto
+0.0 100.0 lineto
+100.0 100.0 lineto
+100.0 0.0 lineto
+0.0 0.0 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+195.5 200.0 moveto
+204.5 200.0 lineto stroke
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+200.0 195.0 moveto
+200.0 205.0 lineto stroke
+
+showpage
